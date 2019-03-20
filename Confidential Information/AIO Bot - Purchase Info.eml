@@ -1,0 +1,1023 @@
+Delivered-To: rahulvbrahmal@gmail.com
+Received: by 10.80.177.155 with SMTP id m27csp317525edd;
+        Fri, 17 Feb 2017 13:42:18 -0800 (PST)
+X-Received: by 10.37.37.8 with SMTP id l8mr7617742ybl.55.1487367738359;
+        Fri, 17 Feb 2017 13:42:18 -0800 (PST)
+Return-Path: <bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com>
+Received: from mail132-12.atl131.mandrillapp.com (mail132-12.atl131.mandrillapp.com. [198.2.132.12])
+        by mx.google.com with ESMTPS id m65si3495137ywd.213.2017.02.17.13.42.18
+        for <rahulvbrahmal@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Feb 2017 13:42:18 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com designates 198.2.132.12 as permitted sender) client-ip=198.2.132.12;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@anothernikebot.com;
+       dkim=pass header.i=@mandrillapp.com;
+       spf=pass (google.com: domain of bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com designates 198.2.132.12 as permitted sender) smtp.mailfrom=bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=anothernikebot.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=support@anothernikebot.com;
+ bh=CrK/ODFVo2eHb2wWdW+wxR6fMks=;
+ b=guKzueYCMlPm1hqe7Ni16F5VOmYb+6r3yWertTG+XtZUmAwibVuN+wGmz9frvpj97c5PiEmcDAJl
+   /d4ZsokdM+tFzunmKb80MmotXPfJELcgyXA53jCU/mwR3N1zu8roqWdn4kwX2tYJ7+VnDg+p96jR
+   BPw5oSqzHVqVVyKHr58=
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail132-12.atl131.mandrillapp.com id hktn3k1sar8s for <rahulvbrahmal@gmail.com>; Fri, 17 Feb 2017 21:42:18 +0000 (envelope-from <bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1487367738; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=4Q1zHn5WA0/3foIKavet2NGchNqfAEugHm7WJQxelro=; 
+ b=HWdQy8ya/+GoLdewLLZWvuWQKCjsPZRVrggRP5nu4AODrLsZJ/aq7Dpwa2l0p7Eyg/QZt2
+ rxBe3UxOhgrNMs0K4zgIln5UTt2Lgq1o680XMh42OXQyRpMFUI5J+yxaZnqJZmNtzdM3Bjwj
+ 2JYWUc4ZeHDMnVYdC7MnNuPACHCUA=
+From: Another Nike Bot <support@anothernikebot.com>
+Subject: AIO Bot - Purchase Info
+Return-Path: <bounce-md_30648250.58a76e3a.v1-60741e25a09548f3959abf3a5541e0c8@mandrillapp.com>
+Received: from [109.199.111.24] by mandrillapp.com id 60741e25a09548f3959abf3a5541e0c8; Fri, 17 Feb 2017 21:42:18 +0000
+To: Rahul Brahmal <rahulvbrahmal@gmail.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30648250.60741e25a09548f3959abf3a5541e0c8
+X-Mandrill-User: md_30648250
+Message-Id: <30648250.20170217214218.58a76e3a0892a4.58090797@mail132-12.atl131.mandrillapp.com>
+Date: Fri, 17 Feb 2017 21:42:18 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-10UjLdIPBNqY61EoiC1wTg"
+
+--_av-10UjLdIPBNqY61EoiC1wTg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+      AIO Bot - Purchase Info                     Your AIO Bot purchase
+info..       View this email in your browser <*|ARCHIVE|*>                 
+                    = AIO Bot Purchase Info =
+
+ Thanks for your purchase.
+
+     *Download Link:*  http://bit.ly/ANB-AIO-Setup
+ 
+ *Activation key:* CBZV-3ZZZ-6W8Z-R7U5-ZWYU-TVCS-GITA 
+ 
+ If you want to *install the bot on Mac*, please check this video
+https://www.youtube.com/watch?v=3YXID5GO4nQ=youtu.be
+ 
+ First of all make sure you download and install latest .NET version:
+http://www.microsoft.com/en-us/download/details.aspx?id=42642
+  
+ Run the downloaded setup file to install the bot.
+ 
+ Please refer to the *Release Setup*:*
+www.AIObot.com/AIO-bot-Release-Setup/
+<http://www.aiobot.com/aio-bot-release-setup/> for more details and
+instructions about the bot.
+ 
+ ===========
+ 
+ *Very Helpful tutorial: *From Create task to Checkout tutorial
+<https://anbhelp.zendesk.com/hc/en-us/articles/207236545-From-create-task-to-checkout->
+ 
+ Much more here: https://anbhelp.zendesk.com/hc/start
+ 
+ ===========
+ 
+ *Very Useful Video: *Servers & How to Use Them
+<https://www.youtube.com/watch?v=qP0Vk7FVaDI>
+ 
+ and more here: https://www.youtube.com/user/ANBOfficialChannel
+ 
+ ========== *Complimentary ANB Nike Bot App*: *Download link:*
+http://bit.ly/ANBiPhoneApp
+ *License Key:*
+FgECAowyJrZmidIBAQBaiI2S39oPsGmLPDpNWwhtN6Ghtxfm+S4Uk7CKYptP1CF0ITJdipdzXG1KdHEX5Ls=
+
+ 
+ Download the app from the link above and install it on your
+iPhone/iPad/iPod.
+ The key is for use on ONE device ONLY. It will NOT be replaced.
+ 
+ ( Choose the country you want to use it on from Settings )
+ 
+ *N.B: *If you get "Untrusted Enterprise Developer" error when trying to
+run the app
+ In iOS 9.1 and lower, go to Settings - General - Profiles - tap on your
+Profile - tap on Trust button.
+ In iOS 9.2+, go to Settings - General - Device Management - tap on your
+Profile - tap on Trust button.
+ ===========
+ 
+ 
+ Contact us on *support@AnotherNikeBot.com*
+<mailto:support@anothernikebot.com?subject=AIO%20Help> for any questions or
+support.
+ 
+ *Note:* Please do not reply to this email as the replies are not
+monitored. <http://www.facebook.com/AnotherNikeBot>     Facebook
+<http://www.facebook.com/AnotherNikeBot>
+<http://www.twitter.com/AnotherNikeBot>     Twitter
+<http://www.twitter.com/AnotherNikeBot> <http://www.AnotherNikeBot.com>    
+Website <http://www.AnotherNikeBot.com>
+<http://www.youtube.com/ANBOfficialChannel>     YouTube
+<http://www.youtube.com/ANBOfficialChannel>
+<https://anbhelp.zendesk.com/hc/start>     Help Center
+<https://anbhelp.zendesk.com/hc/start>
+--_av-10UjLdIPBNqY61EoiC1wTg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    	<!-- NAME: 1 COLUMN -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AIO Bot - Purchase Info</title>
+        
+    <style type="text/css">
+		body,#bodyTable,#bodyCell{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		img,a img{
+			border:0;
+			outline:none;
+			text-decoration:none;
+		}
+		h1,h2,h3,h4,h5,h6{
+			margin:0;
+			padding:0;
+		}
+		p{
+			margin:1em 0;
+			padding:0;
+		}
+		a{
+			word-wrap:break-word;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+			line-height:100%;
+		}
+		table,td{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		body,table,td,p,a,li,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		#templatePreheader,#templateHeader,#templateBody,#templateFooter{
+			min-width:100%;
+		}
+		#bodyCell{
+			padding:20px;
+		}
+		.mcnImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+	/*
+	@tab Page
+	@section background style
+	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+	*/
+		body,#bodyTable{
+			/*@editable*/background-color:#F2F2F2;
+		}
+	/*
+	@tab Page
+	@section background style
+	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+	*/
+		#bodyCell{
+			/*@editable*/border-top:0;
+		}
+	/*
+	@tab Page
+	@section email border
+	@tip Set the border for your email.
+	*/
+		#templateContainer{
+			/*@editable*/border:0;
+		}
+	/*
+	@tab Page
+	@section heading 1
+	@tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#606060 !important;
+			display:block;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:40px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-1px;
+			margin:0;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section heading 2
+	@tip Set the styling for all second-level headings in your emails.
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#404040 !important;
+			display:block;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:26px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-.75px;
+			margin:0;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section heading 3
+	@tip Set the styling for all third-level headings in your emails.
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#606060 !important;
+			display:block;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:18px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-.5px;
+			margin:0;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section heading 4
+	@tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#808080 !important;
+			display:block;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			margin:0;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section preheader style
+	@tip Set the background color and borders for your email's preheader area.
+	*/
+		#templatePreheader{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+		}
+	/*
+	@tab Preheader
+	@section preheader text
+	@tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+	*/
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:11px;
+			/*@editable*/line-height:125%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section preheader link
+	@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+	*/
+		.preheaderContainer .mcnTextContent a{
+			/*@editable*/color:#606060;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Header
+	@section header style
+	@tip Set the background color and borders for your email's header area.
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+		}
+	/*
+	@tab Header
+	@section header text
+	@tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section header link
+	@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+	*/
+		.headerContainer .mcnTextContent a{
+			/*@editable*/color:#6DC6DD;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section body style
+	@tip Set the background color and borders for your email's body area.
+	*/
+		#templateBody{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+		}
+	/*
+	@tab Body
+	@section body text
+	@tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section body link
+	@tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+	*/
+		.bodyContainer .mcnTextContent a{
+			/*@editable*/color:#6DC6DD;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section footer style
+	@tip Set the background color and borders for your email's footer area.
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+		}
+	/*
+	@tab Footer
+	@section footer text
+	@tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:11px;
+			/*@editable*/line-height:125%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Footer
+	@section footer link
+	@tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+	*/
+		.footerContainer .mcnTextContent a{
+			/*@editable*/color:#606060;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[id=bodyCell]{
+			padding:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcnTextContentContainer]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			max-width:100% !important;
+			min-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcpreview-image-uploader]{
+			width:100% !important;
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[class=mcnImage]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcnImageGroupContentContainer]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageGroupContent]{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageGroupBlockInner]{
+			padding-bottom:0 !important;
+			padding-top:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		tbody[class=mcnImageGroupBlockOuter]{
+			padding-bottom:9px !important;
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcnCaptionTopContent],table[class=mcnCaptionBottomContent]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcnCaptionLeftTextContentContainer],table[class=mcnCaptionRightTextContentContainer],table[class=mcnCaptionLeftImageContentContainer],table[class=mcnCaptionRightImageContentContainer],table[class=mcnImageCardLeftTextContentContainer],table[class=mcnImageCardRightTextContentContainer]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+			padding-right:18px !important;
+			padding-left:18px !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardBottomImageContent]{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardTopImageContent]{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+			padding-right:18px !important;
+			padding-left:18px !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardBottomImageContent]{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnImageCardTopImageContent]{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[class=mcnCaptionLeftContentOuter] td[class=mcnTextContent],table[class=mcnCaptionRightContentOuter] td[class=mcnTextContent]{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnCaptionBlockInner] table[class=mcnCaptionTopContent]:last-child td[class=mcnTextContent]{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnBoxedTextContentColumn]{
+			padding-left:18px !important;
+			padding-right:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=mcnTextContent]{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section template width
+	@tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+	*/
+		table[id=templateContainer],table[id=templatePreheader],table[id=templateHeader],table[id=templateBody],table[id=templateFooter]{
+			/*@tab Mobile Styles
+@section template width
+@tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.*/max-width:600px !important;
+			/*@editable*/width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 1
+	@tip Make the first-level headings larger in size for better readability on small screens.
+	*/
+		h1{
+			/*@editable*/font-size:24px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 2
+	@tip Make the second-level headings larger in size for better readability on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 3
+	@tip Make the third-level headings larger in size for better readability on small screens.
+	*/
+		h3{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section heading 4
+	@tip Make the fourth-level headings larger in size for better readability on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		table[class=mcnBoxedTextContentContainer] td[class=mcnTextContent],td[class=mcnBoxedTextContentContainer] td[class=mcnTextContent] p{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Visibility
+	@tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+	*/
+		table[id=templatePreheader]{
+			/*@editable*/display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Text
+	@tip Make the preheader text larger in size for better readability on small screens.
+	*/
+		td[class=preheaderContainer] td[class=mcnTextContent],td[class=preheaderContainer] td[class=mcnTextContent] p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:115% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small screens.
+	*/
+		td[class=headerContainer] td[class=mcnTextContent],td[class=headerContainer] td[class=mcnTextContent] p{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+	*/
+		td[class=bodyContainer] td[class=mcnTextContent],td[class=bodyContainer] td[class=mcnTextContent] p{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section footer text
+	@tip Make the body content text larger in size for better readability on small screens.
+	*/
+		td[class=footerContainer] td[class=mcnTextContent],td[class=footerContainer] td[class=mcnTextContent] p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:115% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=footerContainer] a[class=utilityLink]{
+			display:block !important;
+		}
+
+}</style></head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+        <center>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+                <tr>
+                    <td align="center" valign="top" id="bodyCell">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
+                            <tr>
+                                <td align="center" valign="top">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+                                        <tr>
+                                        	<td valign="top" class="preheaderContainer" style="padding-top:9px;"><table class="mcnTextBlock" style="min-width:100%;" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" valign="top">
+                
+                <table class="mcnTextContentContainer" align="left" border="0" cellpadding="0" cellspacing="0" width="366">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;" valign="top">
+                        
+                            Your AIO Bot purchase info..
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+                <table class="mcnTextContentContainer" align="right" border="0" cellpadding="0" cellspacing="0" width="197">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
+                        
+                            <a href="*|ARCHIVE|*" target="_blank">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+                                        <tr>
+                                            <td valign="top" class="headerContainer"></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top">
+                                    <!-- BEGIN BODY // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                                        <tr>
+                                            <td valign="top" class="bodyContainer"><table class="mcnTextBlock" style="min-width:100%;" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" style="padding-top:9px;" valign="top">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table style="max-width:100%; min-width:100%;" class="mcnTextContentContainer" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
+                        
+                            <h1>AIO Bot Purchase Info</h1>
+
+<p style="margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 150%;text-align: left;"><span style="-webkit-text-stroke-width:0px; background-color:#FFFFFF; color:#222222; display:inline !important; float:none; font-family:arial,sans-serif; font-size:12.8000001907349px; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; line-height:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px">Thanks for your purchase.</span></p>
+
+<div class="gmail_quote" style="color: #222222;font-family: arial, sans-serif;font-size: 12.8000001907349px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: normal;line-height: normal;orphans: auto;text-align: start;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;background-color: #FFFFFF;">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr">
+<div><span><span><strong>Download Link:</strong></span></span>&nbsp; <a href="http://mandrillapp.com/track/click/30648250/bit.ly?p=eyJzIjoiSjg4T1h3X1JoakZkWDJObUNNVEhoOFp3VXhzIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYml0Lmx5XFxcL0FOQi1BSU8tU2V0dXBcIixcImlkXCI6XCI2MDc0MWUyNWEwOTU0OGYzOTU5YWJmM2E1NTQxZTBjOFwiLFwidXJsX2lkc1wiOltcIjY5ODlmNWVhYjFlMTM5YTZlMWJmMGM4M2M1OTIyY2E2MmU3M2Y3OGRcIl19In0" target="_blank">http://bit.ly/ANB-AIO-Setup</a><br>
+<br>
+<strong>Activation key:</strong> CBZV-3ZZZ-6W8Z-R7U5-ZWYU-TVCS-GITA
+<br>
+<br>
+<span><span><span>If you want to <strong>install the bot on Mac</strong>, please check this video </span></span></span><a href="http://mandrillapp.com/track/click/30648250/www.youtube.com?p=eyJzIjoiVUNhX25jS3RrTlQwZXVnbTMteTdWWnV4LXVvIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy55b3V0dWJlLmNvbVxcXC93YXRjaD92PTNZWElENUdPNG5RPXlvdXR1LmJlXCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCI3NzRmNzQxMmQxYTM2OWQxYzA0YWIwYmI5NjQ2MTRjZDU1ZTdlMjk0XCJdfSJ9" target="_blank"><span><span><span>https://www.youtube.com/watch?v=3YXID5GO4nQ=youtu.be</span></span></span></a></div>
+
+<div><br>
+<span><span><span>First of all make sure you download and install latest .NET version: <a href="http://mandrillapp.com/track/click/30648250/www.microsoft.com?p=eyJzIjoiQWRad213b3Jna3dOTV9jRGcycFdGY0FMYWk0IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3Lm1pY3Jvc29mdC5jb21cXFwvZW4tdXNcXFwvZG93bmxvYWRcXFwvZGV0YWlscy5hc3B4P2lkPTQyNjQyXCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCJkM2JmZWNlNjQ4YTQ4ZDYxMTAwMDBlZmMyYWY4NDg2ODVjZDYyOGE1XCJdfSJ9" style="color: #1155CC;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;text-decoration: underline;" target="_blank">http://www.microsoft.com/en-us/download/details.aspx?id=42642</a></span></span></span><br>
+&nbsp;</div>
+
+<div><span><span><span>Run the downloaded setup file to install the bot.</span></span></span></div>
+
+<div><br>
+<span><span><span>Please refer to the <strong>Release Setup</strong><span><span><span><strong>:</strong> </span></span></span></span></span></span><a href="http://mandrillapp.com/track/click/30648250/www.aiobot.com?p=eyJzIjoiNW1oUUw5ZmM2ejhWczd0OThyWmxPaC16M3JzIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmFpb2JvdC5jb21cXFwvYWlvLWJvdC1yZWxlYXNlLXNldHVwXFxcL1wiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiYzNmMGU2YTIwNGQzZTE4ZWI5ZTRlMjk1YjI3NzExMzQyZTI2NjA4OVwiXX0ifQ" target="_blank">www.AIObot.com/AIO-bot-Release-Setup/</a><span><span><span> for more details and instructions about the bot.</span></span></span></div>
+
+<div><br>
+<span><span><span>===========<br>
+<br>
+<strong>Very Helpful tutorial: </strong><a href="http://mandrillapp.com/track/click/30648250/anbhelp.zendesk.com?p=eyJzIjoiVkhkZmVyUTNkcjM2SkNzUXRYQTFIa0FzUGJ3IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FuYmhlbHAuemVuZGVzay5jb21cXFwvaGNcXFwvZW4tdXNcXFwvYXJ0aWNsZXNcXFwvMjA3MjM2NTQ1LUZyb20tY3JlYXRlLXRhc2stdG8tY2hlY2tvdXQtXCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCI5ZmFmYjZmMjUwNGNiOTg3NGU4MGQ2ZjEyMTlhNjg3NjNmOTYyNmJkXCJdfSJ9" target="_blank">From Create task to Checkout tutorial</a></span></span></span><br>
+<br>
+<span><span><span>Much more here: </span></span></span><a href="http://mandrillapp.com/track/click/30648250/anbhelp.zendesk.com?p=eyJzIjoib3dSc2FoRzc3WmVtNlh1cEw1bEt6cWpucmZFIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FuYmhlbHAuemVuZGVzay5jb21cXFwvaGNcXFwvc3RhcnRcIixcImlkXCI6XCI2MDc0MWUyNWEwOTU0OGYzOTU5YWJmM2E1NTQxZTBjOFwiLFwidXJsX2lkc1wiOltcImIxY2IxZjcxNTQxZWI3Y2VhNjE3YWY2OTkyNzc4M2JhNWJlZTEzNWFcIl19In0" target="_blank">https://anbhelp.zendesk.com/hc/start</a><br>
+<br>
+<span><span><span>===========<br>
+<br>
+<strong>Very Useful Video: </strong><a href="http://mandrillapp.com/track/click/30648250/www.youtube.com?p=eyJzIjoiaWFoVXRXOTRPOURoSVlSTnppNXhCY09zR0ZBIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy55b3V0dWJlLmNvbVxcXC93YXRjaD92PXFQMFZrN0ZWYURJXCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCI3NzRmNzQxMmQxYTM2OWQxYzA0YWIwYmI5NjQ2MTRjZDU1ZTdlMjk0XCJdfSJ9" target="_blank">Servers &amp; How to Use Them</a></span></span></span><br>
+<br>
+and more here: <a href="http://mandrillapp.com/track/click/30648250/www.youtube.com?p=eyJzIjoialBrU0I4VlJyajBWUWh3NC1tSjRXMVQwMkFBIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy55b3V0dWJlLmNvbVxcXC91c2VyXFxcL0FOQk9mZmljaWFsQ2hhbm5lbFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiMjk1M2QzMzUxYjQxYTg5ZWQ3OTViNzQ1NzYyOTY3YzZiNzU3ZmIwZVwiXX0ifQ" target="_blank">https://www.youtube.com/user/ANBOfficialChannel</a><br>
+<br>
+<span><span><span>==========</span></span></span>
+
+<h3 class="null"><strong>Complimentary ANB Nike Bot App</strong>:</h3>
+<strong>Download link:</strong> <a href="http://mandrillapp.com/track/click/30648250/bit.ly?p=eyJzIjoiRlVwbmFLeHVXRk1nUk1uSjRFbV8zeXk0NGVrIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYml0Lmx5XFxcL0FOQmlQaG9uZUFwcFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiZGRmNDM2ZWVkNjdmZGQ4YmI3NjJhZmRiMDZkZDk2MjFlZDY3MGM3OVwiXX0ifQ" target="_blank">http://bit.ly/ANBiPhoneApp</a><br>
+<strong>License Key:</strong> FgECAowyJrZmidIBAQBaiI2S39oPsGmLPDpNWwhtN6Ghtxfm+S4Uk7CKYptP1CF0ITJdipdzXG1KdHEX5Ls=
+
+<div dir="ltr"><br>
+<br>
+Download the app from the link above and install it on your iPhone/iPad/iPod.<br>
+The key is for use on ONE device ONLY. It will NOT be replaced.<br>
+<br>
+( Choose the country you want to use it on from Settings )<br>
+<br>
+<u>N.B: </u>If you get "Untrusted Enterprise Developer" error when trying to run the app<br>
+In iOS 9.1 and lower, go to Settings - General - Profiles - tap on your Profile - tap on Trust button.<br>
+In iOS 9.2+, go to Settings - General - Device Management - tap on your Profile - tap on Trust button.</div>
+<span><span><span>===========<br>
+<br>
+<br>
+Contact us on <a href="mailto:support@anothernikebot.com?subject=AIO%20Help" style="word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;" target="_blank"><strong>support@AnotherNikeBot.com</strong></a> for any questions or support.</span></span></span><br>
+<br>
+<span><span><span><strong>Note:</strong> Please do not reply to this email as the replies are not monitored.</span></span></span></div>
+</div>
+</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table class="mcnFollowBlock" style="min-width:100%;" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody class="mcnFollowBlockOuter">
+        <tr>
+            <td style="padding:9px" class="mcnFollowBlockInner" align="center" valign="top">
+                <table class="mcnFollowContentContainer" style="min-width:100%;" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+        <td style="padding-left:9px;padding-right:9px;" align="center">
+            <table style="min-width: 100%;background-color: #FAFAFA;border: 1px solid #EEEEEE;" class="mcnFollowContent" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td style="padding-top:9px; padding-right:9px; padding-left:9px;" align="center" valign="top">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td align="center" valign="top">
+                                    <!--[if mso]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                    <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                            <table class="mcnFollowStacked" style="display:inline;" align="left" border="0" cellpadding="0" cellspacing="0">
+                                                 
+                                                <tbody><tr>
+                                                    <td class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:5px;" align="center" valign="top">
+                                                        <a href="http://mandrillapp.com/track/click/30648250/www.facebook.com?p=eyJzIjoibXFwNUtHc2p5akVlUHNnZXcydlpvdXBmdUxBIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmZhY2Vib29rLmNvbVxcXC9Bbm90aGVyTmlrZUJvdFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiNTliZWIxZThhYzVmZDlhMjVjN2ZjNzNlOTE3ZWQwZmUyOTUxYmNhOFwiXX0ifQ" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-96.png" alt="Facebook" class="mcnFollowBlockIcon" style="width:48px; max-width:48px; display:block;" width="48"></a>
+                                                    </td>
+                                                </tr>
+                                                
+                                                
+                                                <tr>
+                                                    <td class="mcnFollowTextContent" style="padding-right:10px; padding-bottom:9px;" align="center" valign="top">
+                                                        <a style="color: #606060;font-family: Arial;font-size: 11px;font-weight: normal;text-decoration: none;line-height: 100%;text-align: center;" href="http://mandrillapp.com/track/click/30648250/www.facebook.com?p=eyJzIjoibXFwNUtHc2p5akVlUHNnZXcydlpvdXBmdUxBIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmZhY2Vib29rLmNvbVxcXC9Bbm90aGVyTmlrZUJvdFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiNTliZWIxZThhYzVmZDlhMjVjN2ZjNzNlOTE3ZWQwZmUyOTUxYmNhOFwiXX0ifQ" target="_blank">Facebook</a>
+                                                    </td>
+                                                </tr>
+                                                
+                                            </tbody></table>
+                                        
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                            <table class="mcnFollowStacked" style="display:inline;" align="left" border="0" cellpadding="0" cellspacing="0">
+                                                 
+                                                <tbody><tr>
+                                                    <td class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:5px;" align="center" valign="top">
+                                                        <a href="http://mandrillapp.com/track/click/30648250/www.twitter.com?p=eyJzIjoibFJZTEY1dmRsQTI3Wi12M24wQzMzN3lJSnR3IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnR3aXR0ZXIuY29tXFxcL0Fub3RoZXJOaWtlQm90XCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCJmNzI2NjI2MTk3ZjgyZWI0MGJkMzUxOTM5ODkxZWI2OWM3ODI0MDBhXCJdfSJ9" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-twitter-96.png" alt="Twitter" class="mcnFollowBlockIcon" style="width:48px; max-width:48px; display:block;" width="48"></a>
+                                                    </td>
+                                                </tr>
+                                                
+                                                
+                                                <tr>
+                                                    <td class="mcnFollowTextContent" style="padding-right:10px; padding-bottom:9px;" align="center" valign="top">
+                                                        <a style="color: #606060;font-family: Arial;font-size: 11px;font-weight: normal;text-decoration: none;line-height: 100%;text-align: center;" href="http://mandrillapp.com/track/click/30648250/www.twitter.com?p=eyJzIjoibFJZTEY1dmRsQTI3Wi12M24wQzMzN3lJSnR3IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnR3aXR0ZXIuY29tXFxcL0Fub3RoZXJOaWtlQm90XCIsXCJpZFwiOlwiNjA3NDFlMjVhMDk1NDhmMzk1OWFiZjNhNTU0MWUwYzhcIixcInVybF9pZHNcIjpbXCJmNzI2NjI2MTk3ZjgyZWI0MGJkMzUxOTM5ODkxZWI2OWM3ODI0MDBhXCJdfSJ9" target="_blank">Twitter</a>
+                                                    </td>
+                                                </tr>
+                                                
+                                            </tbody></table>
+                                        
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                            <table class="mcnFollowStacked" style="display:inline;" align="left" border="0" cellpadding="0" cellspacing="0">
+                                                 
+                                                <tbody><tr>
+                                                    <td class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:5px;" align="center" valign="top">
+                                                        <a href="http://mandrillapp.com/track/click/30648250/www.AnotherNikeBot.com?p=eyJzIjoibFBveXFGZWlvaDhzYUhtamJTc2tVYmtndVRVIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LkFub3RoZXJOaWtlQm90LmNvbVwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiY2NjNmFmM2Q4NDhhMGRhYTk5NzQ0OGUxZDk5ZjVjODcxYjU4NjYzN1wiXX0ifQ" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-96.png" alt="Website" class="mcnFollowBlockIcon" style="width:48px; max-width:48px; display:block;" width="48"></a>
+                                                    </td>
+                                                </tr>
+                                                
+                                                
+                                                <tr>
+                                                    <td class="mcnFollowTextContent" style="padding-right:10px; padding-bottom:9px;" align="center" valign="top">
+                                                        <a style="color: #606060;font-family: Arial;font-size: 11px;font-weight: normal;text-decoration: none;line-height: 100%;text-align: center;" href="http://mandrillapp.com/track/click/30648250/www.AnotherNikeBot.com?p=eyJzIjoibFBveXFGZWlvaDhzYUhtamJTc2tVYmtndVRVIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LkFub3RoZXJOaWtlQm90LmNvbVwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiY2NjNmFmM2Q4NDhhMGRhYTk5NzQ0OGUxZDk5ZjVjODcxYjU4NjYzN1wiXX0ifQ" target="_blank">Website</a>
+                                                    </td>
+                                                </tr>
+                                                
+                                            </tbody></table>
+                                        
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                            <table class="mcnFollowStacked" style="display:inline;" align="left" border="0" cellpadding="0" cellspacing="0">
+                                                 
+                                                <tbody><tr>
+                                                    <td class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:5px;" align="center" valign="top">
+                                                        <a href="http://mandrillapp.com/track/click/30648250/www.youtube.com?p=eyJzIjoiNnZtdTNrcVhrMlVVNTYxTDRBb0cySl9qUjI4IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnlvdXR1YmUuY29tXFxcL0FOQk9mZmljaWFsQ2hhbm5lbFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiZWMxYmM4ODRhNzY2YjcwNWRkOTlhMTYzMWQ0MjAzOGIxNTM5YTU3YVwiXX0ifQ" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-youtube-96.png" alt="YouTube" class="mcnFollowBlockIcon" style="width:48px; max-width:48px; display:block;" width="48"></a>
+                                                    </td>
+                                                </tr>
+                                                
+                                                
+                                                <tr>
+                                                    <td class="mcnFollowTextContent" style="padding-right:10px; padding-bottom:9px;" align="center" valign="top">
+                                                        <a style="color: #606060;font-family: Arial;font-size: 11px;font-weight: normal;text-decoration: none;line-height: 100%;text-align: center;" href="http://mandrillapp.com/track/click/30648250/www.youtube.com?p=eyJzIjoiNnZtdTNrcVhrMlVVNTYxTDRBb0cySl9qUjI4IiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnlvdXR1YmUuY29tXFxcL0FOQk9mZmljaWFsQ2hhbm5lbFwiLFwiaWRcIjpcIjYwNzQxZTI1YTA5NTQ4ZjM5NTlhYmYzYTU1NDFlMGM4XCIsXCJ1cmxfaWRzXCI6W1wiZWMxYmM4ODRhNzY2YjcwNWRkOTlhMTYzMWQ0MjAzOGIxNTM5YTU3YVwiXX0ifQ" target="_blank">YouTube</a>
+                                                    </td>
+                                                </tr>
+                                                
+                                            </tbody></table>
+                                        
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                            <table class="mcnFollowStacked" style="display:inline;" align="left" border="0" cellpadding="0" cellspacing="0">
+                                                 
+                                                <tbody><tr>
+                                                    <td class="mcnFollowIconContent" style="padding-right:0; padding-bottom:5px;" align="center" valign="top">
+                                                        <a href="http://mandrillapp.com/track/click/30648250/anbhelp.zendesk.com?p=eyJzIjoib3dSc2FoRzc3WmVtNlh1cEw1bEt6cWpucmZFIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FuYmhlbHAuemVuZGVzay5jb21cXFwvaGNcXFwvc3RhcnRcIixcImlkXCI6XCI2MDc0MWUyNWEwOTU0OGYzOTU5YWJmM2E1NTQxZTBjOFwiLFwidXJsX2lkc1wiOltcImIxY2IxZjcxNTQxZWI3Y2VhNjE3YWY2OTkyNzc4M2JhNWJlZTEzNWFcIl19In0" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-96.png" alt="Help Center" class="mcnFollowBlockIcon" style="width:48px; max-width:48px; display:block;" width="48"></a>
+                                                    </td>
+                                                </tr>
+                                                
+                                                
+                                                <tr>
+                                                    <td class="mcnFollowTextContent" style="padding-right:0; padding-bottom:9px;" align="center" valign="top">
+                                                        <a style="color: #606060;font-family: Arial;font-size: 11px;font-weight: normal;text-decoration: none;line-height: 100%;text-align: center;" href="http://mandrillapp.com/track/click/30648250/anbhelp.zendesk.com?p=eyJzIjoib3dSc2FoRzc3WmVtNlh1cEw1bEt6cWpucmZFIiwidiI6MSwicCI6IntcInVcIjozMDY0ODI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FuYmhlbHAuemVuZGVzay5jb21cXFwvaGNcXFwvc3RhcnRcIixcImlkXCI6XCI2MDc0MWUyNWEwOTU0OGYzOTU5YWJmM2E1NTQxZTBjOFwiLFwidXJsX2lkc1wiOltcImIxY2IxZjcxNTQxZWI3Y2VhNjE3YWY2OTkyNzc4M2JhNWJlZTEzNWFcIl19In0" target="_blank">Help Center</a>
+                                                    </td>
+                                                </tr>
+                                                
+                                            </tbody></table>
+                                        
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
+                                        <tr>
+                                            <td valign="top" class="footerContainer" style="padding-bottom:9px;"></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="http://mandrillapp.com/track/open.php?u=30648250&id=60741e25a09548f3959abf3a5541e0c8" height="1" width="1"></body>
+</html>
+--_av-10UjLdIPBNqY61EoiC1wTg--
+
